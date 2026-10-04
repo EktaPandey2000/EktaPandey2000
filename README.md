@@ -9,4 +9,5 @@
    ### Skills
    HTML · CSS · JavaScript · React · Tailwind · Node.js · MongoDB · Python · SQL · Git
 
-   📫 Pandeyekta331@gmail.com | LinkedIn link
+   📫 Pandeyekta331@gmail.com | LinkedIn link : https://www.linkedin.com/in/ekta-pandey-051b79241/
+   
